@@ -2,7 +2,7 @@
 
 Distributed Key Value Database
 
-### Storage
+### storage
 
 
 

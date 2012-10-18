@@ -1,8 +1,16 @@
-## bitscale
+# BitScale
 
 Distributed Key Value Database
 
-### storage
+## Storage
+
+
+## Server  
+
+
+## API 
+
+
 
 
 

@@ -1,0 +1,17 @@
+target/
+log/
+dist/
+*.log
+*.tmproj
+*.swp
+*.iml
+*~
+*#
+.#*
+.idea
+.DS_Store
+pmip/
+.history
+.cache
+.classpath
+.project

@@ -1,4 +1,8 @@
-bitscale
-========
+## bitscale
 
-kv store
+Distributed Key Value Database
+
+### Storage
+
+
+

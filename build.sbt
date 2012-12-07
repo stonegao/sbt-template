@@ -1,8 +1,8 @@
-name := "bitscale"
+name := "sbt-template"
 
 version := "0.1.0"
 
-organization := "bitscale" 
+organization := "org.my" 
 
 scalaVersion := "2.9.1"
 
@@ -19,9 +19,6 @@ resolvers ++= Seq("snapshots" at "http://scala-tools.org/repo-snapshots",
 
 libraryDependencies ++= {
   Seq(
-    "com.typesafe.akka" % "akka-actor" % "2.0.3",
-    "com.github.scala-incubator.io" %% "scala-io-core" % "0.4.1-seq",
-    "com.github.scala-incubator.io" %% "scala-io-file" % "0.4.1-seq",
     "org.specs2" %% "specs2" % "1.5" % "test",
     "org.specs2" %% "specs2-scalaz-core" % "6.0.1" % "test"
   ) 
